@@ -1,0 +1,27 @@
+{
+  "name": "the-lunchbox",
+  "version": "1.0.0",
+  "description": "An application to order food.",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest",
+    "start": "npx parcel index.html"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Mayank-Tiwari01/The-Lunchbox.git"
+  },
+  "author": "Mayank Tiwari",
+  "license": "ISC",
+  "devDependencies": {
+    "parcel": "^2.12.0",
+    "process": "^0.11.10"
+  },
+  "dependencies": {
+    "prop-types": "^15.8.1",
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1",
+    "react-icons": "^5.2.1",
+    "react-router-dom": "^6.23.1"
+  }
+}
